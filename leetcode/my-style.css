@@ -1,0 +1,16 @@
+.leetcheckbox {
+    margin: 0px 5px;
+    display: none;
+}
+
+.leetsolved {
+    color: green;
+    border: solid green 1px;
+    border-radius: 10px;
+    padding: 5px;
+    background: lightgreen;
+}
+
+.parentdiv {
+    display: contents;
+}
